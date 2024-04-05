@@ -68,7 +68,6 @@ let addressesnotls = [
 'edtunnel-dgp.pages.dev:80#优选域名',
 'www.d-555.com:80#优选域名',
 'fbi.gov:80#优选域名',
-
 ];
 
 // 设置优选noTLS地址api接口
