@@ -22,7 +22,7 @@ let addressesnotls = [
 	//'www.who.int:8880#官方优选域名',
 	'time.cloudflare.com:80#优选域名',
 'shopify.com:80#优选域名',
-'time.is':80#优选域名',
+'time.is:80#优选域名',
 'icook.hk:80#优选域名',
 'icook.tw:80#优选域名',
 'ip.sb:80#优选域名',
